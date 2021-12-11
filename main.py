@@ -23,7 +23,7 @@ FPS = 60
 
 # Set player sprites and background image
 BACKGROUND = pygame.transform.scale(pygame.image.load(
-    os.path.join('MarioBros/Assets', '1280px-SSBU-Mario_Bros.png')), (WIDTH, HEIGHT))
+    os.path.join('Assets', '1280px-SSBU-Mario_Bros.png')), (WIDTH, HEIGHT))
 
 def draw_window():
     WIN.blit(BACKGROUND, (0,0)) # Background image
