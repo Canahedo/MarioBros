@@ -1,2 +1,2 @@
 # MarioBros
-Clone of original Mario Bros game
+A clone of the original MarioBros game
